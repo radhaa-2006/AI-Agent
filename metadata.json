@@ -1,0 +1,8 @@
+{
+  "name": "NCC Information Agent",
+  "description": "An AI-powered academic assistant providing authoritative information on India's National Cadet Corps (NCC) — covering history, wings, enrollment, training, camps, certificates, ranks, and defence career benefits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
